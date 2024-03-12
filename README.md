@@ -1,13 +1,19 @@
 <h1 align="center">Hi 👋, I'm Dominik Piątek</h1>
-<h3 align="center">A passionate frontend developer from Poland</h3>
+<h3 align="center">A passionate FrontEnd developer from Poland</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dominikpiatek94&label=Profile%20views&color=0e75b6&style=flat" alt="dominikpiatek94" /> </p>
+<img src="https://github.com/dominikpiatek94/dominikpiatek94/blob/dominikpiatek/image.png" />
+Hi there! My name is Dominik, and I'm a beginner enthusiast in programming. My experience includes the basics of HTML, CSS, and JavaScript, and I'm getting acquainted with the Bootstrap framework.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dominikpiatek94" alt="dominikpiatek94" /></a> </p>
+Although I'm just starting my coding journey, I'm eager to expand my knowledge and skills. I'm motivated to delve into the intricacies of technology, including frameworks like React and Angular, to build advanced web applications.
+
+While my experience with databases is limited to the fundamentals, I'm determined to deepen my knowledge in this area. SQL is a fascinating field for me, and I aim to master it to efficiently create and manage databases.
+
+I'm ready to dedicate time and effort to learning, experimenting, and applying my skills practically. I'd like to continue my path of development, gain new experiences, and collaborate with fellow technology enthusiasts.
+
+Even though I'm currently only familiar with the basics, I'm confident that with determination, hard work, and dedication, I'll make significant progress. I invite you to follow my journey in the world of programming and join me in my passion for learning and creating.
+
 
 - 🌱 I’m currently learning **React, Angular, MySQL**
-
-- 👨‍💻 All of my projects are available at <a href="dominikpiatek94.github.io" >
 
 - 📫 How to reach me **dominikpiatek94@gmail.com**
 

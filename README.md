@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dominik Piątek</h1>
-<h3 align="center">A passionate frontend developer from Poland</h3>
+<h3 align="center">A passionate FrontEnd developer from Poland</h3>
 <img src="https://github.com/dominikpiatek94/dominikpiatek94/blob/dominikpiatek/image.png" />
 My name is Dominik, and I'm a beginner enthusiast in programming. My experience includes the basics of HTML, CSS, and JavaScript, and I'm getting acquainted with the Bootstrap framework.
 

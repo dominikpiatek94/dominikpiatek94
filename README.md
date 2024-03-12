@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, Angular, MySQL**
 
-- 👨‍💻 All of my projects are available at [dominikpiatek94.github.io](dominikpiatek94.github.io)
+- 👨‍💻 All of my projects are available at <a href="dominikpiatek94.github.io" >
 
 - 📫 How to reach me **dominikpiatek94@gmail.com**
 
